@@ -1,0 +1,6 @@
+E:\pemrograman\Tugas Lab 9\Tugas Lab 9\bin\Debug\Tugas Lab 9.exe.config
+E:\pemrograman\Tugas Lab 9\Tugas Lab 9\bin\Debug\Tugas Lab 9.exe
+E:\pemrograman\Tugas Lab 9\Tugas Lab 9\bin\Debug\Tugas Lab 9.pdb
+E:\pemrograman\Tugas Lab 9\Tugas Lab 9\obj\Debug\Tugas Lab 9.csprojResolveAssemblyReference.cache
+E:\pemrograman\Tugas Lab 9\Tugas Lab 9\obj\Debug\Tugas Lab 9.exe
+E:\pemrograman\Tugas Lab 9\Tugas Lab 9\obj\Debug\Tugas Lab 9.pdb
